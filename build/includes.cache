@@ -1,0 +1,52 @@
+[
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "/home/david/Downloads/arduino-1.8.8-linux64/arduino-1.8.8/hardware/arduino/avr/cores/arduino"
+  },
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "/home/david/Downloads/arduino-1.8.8-linux64/arduino-1.8.8/hardware/arduino/avr/variants/standard"
+  },
+  {
+    "Sourcefile": "/media/david/Storage/Projects/LauncherBase/build/sketch/LauncherBase.ino.cpp",
+    "Include": "Servo.h",
+    "Includepath": "/home/david/Downloads/arduino-1.8.8-linux64/arduino-1.8.8/libraries/Servo/src"
+  },
+  {
+    "Sourcefile": "/media/david/Storage/Projects/LauncherBase/build/sketch/LauncherBase.ino.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/home/david/Downloads/arduino-1.8.8-linux64/arduino-1.8.8/libraries/Servo/src/avr/Servo.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/home/david/Downloads/arduino-1.8.8-linux64/arduino-1.8.8/libraries/Servo/src/megaavr/Servo.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/home/david/Downloads/arduino-1.8.8-linux64/arduino-1.8.8/libraries/Servo/src/nrf52/Servo.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/home/david/Downloads/arduino-1.8.8-linux64/arduino-1.8.8/libraries/Servo/src/sam/Servo.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/home/david/Downloads/arduino-1.8.8-linux64/arduino-1.8.8/libraries/Servo/src/samd/Servo.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/home/david/Downloads/arduino-1.8.8-linux64/arduino-1.8.8/libraries/Servo/src/stm32f4/Servo.cpp",
+    "Include": "",
+    "Includepath": ""
+  }
+]
